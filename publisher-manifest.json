@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "6cec00ea310f9972b69d4dff",
+  "owner": "jjjpkymfbak",
+  "repo": "page-d6bc1cd0d63d74561a939348",
+  "title": "天天网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d6bc1cd0d63d74561a939348",
+      "a": "天天网络",
+      "b": "",
+      "entity": "天天网络",
+      "brand": "天天网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e880b69dee73be622fc1c8073ad399496e8e8b13d20910e591c331bad0854f42",
+      "content": {
+        "keyword1": "天天网络",
+        "keyword2": "",
+        "primary_entity": "天天网络",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "天天网络为你提供亲切、稳定、省心的日常网络连接服务，让每一次点击都顺畅自然。",
+          "AI_DESCRIPTION": "天天网络为你提供亲切、稳定、省心的日常网络连接服务，让每一次点击都顺畅自然。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--wine: #6B1D2F;--ivory: #FDFBF7;--dark: #2C2224;--border: #6B1D2F;--accent: #A3334A}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--ivory);color: var(--dark);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;line-height: 1.6;display: flex;min-height: 100vh}\naside {width: 240px;background-color: var(--wine);color: var(--ivory);position: fixed;top: 0;bottom: 0;left: 0;padding: 40px 20px;display: flex;flex-direction: column;justify-content: space-between;border-right: 4px solid var(--dark)}\naside .brand-logo {font-size: 1.5rem;font-weight: bold;letter-spacing: 2px;margin-bottom: 40px}\naside nav a {display: block;color: var(--ivory);text-decoration: none;padding: 12px 0;font-size: 1.05rem;border-bottom: 1px solid rgba(253, 251, 247, 0.2);transition: opacity 0.2s}\naside nav a:hover {opacity: 0.7}\naside .aside-footer {font-size: 0.85rem;opacity: 0.8}\nmain {margin-left: 240px;flex: 1;padding: 60px 80px;max-width: 1200px}\n@media (max-width: 768px) {\n  body {flex-direction: column}\n  aside {position: static;width: 100%;padding: 20px;height: auto}\n  main {margin-left: 0;padding: 30px 20px}\n}\n.hero {padding: 60px 0;border-bottom: 4px solid var(--wine);margin-bottom: 60px}\n.hero h1 {font-size: clamp(4rem, 12vw, 9rem);line-height: 0.9;color: var(--wine);margin-bottom: 24px;font-weight: 900;letter-spacing: -2px}\n.hero p {font-size: 1.25rem;max-width: 600px;color: var(--dark)}\nsection {margin-bottom: 80px}\nh2 {font-size: 2rem;color: var(--wine);margin-bottom: 30px;border-bottom: 2px solid var(--wine);padding-bottom: 10px;display: inline-block}\n.features-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 30px}\n.card {border: 3px solid var(--wine);background: var(--ivory);padding: 30px;position: relative}\n.card h3 {font-size: 1.3rem;color: var(--wine);margin-bottom: 15px}\n.plans-container {display: flex;flex-direction: column;gap: 25px;max-width: 800px}\n.plan-step {border: 3px solid var(--wine);padding: 30px;background: #fff;position: relative}\n.plan-step.featured {background: var(--wine);color: var(--ivory)}\n.plan-step.featured h3,\n.plan-step.featured .price {color: var(--ivory)}\n.plan-step h3 {font-size: 1.5rem;margin-bottom: 10px;color: var(--wine)}\n.plan-step .price {font-size: 1.8rem;font-weight: bold;color: var(--wine);margin-bottom: 15px}\n.plan-step ul {list-style: none;margin-bottom: 20px}\n.plan-step li {padding: 6px 0;border-bottom: 1px dashed rgba(107, 29, 47, 0.2)}\n.plan-step.featured li {border-bottom: 1px dashed rgba(253, 251, 247, 0.3)}\n.btn {display: inline-block;background: var(--wine);color: var(--ivory);padding: 12px 24px;text-decoration: none;font-weight: bold;border: 2px solid var(--wine)}\n.plan-step.featured .btn {background: var(--ivory);color: var(--wine);border-color: var(--ivory)}\n.faq-group {margin-bottom: 40px}\n.faq-group h3 {font-size: 1.3rem;color: var(--accent);margin-bottom: 15px}\n.faq-item {border: 2px solid var(--wine);padding: 20px;margin-bottom: 15px;background: #fff}\n.faq-item h4 {font-size: 1.1rem;color: var(--wine);margin-bottom: 8px}\nfooter {border-top: 2px solid var(--wine);padding-top: 30px;font-size: 0.9rem;color: var(--dark)}\n</style><aside>\n  <div>\n    <div class=\"brand-logo\">天天网络</div>\n    <nav>\n      <a href=\"#about\">关于我们</a>\n      <a href=\"#features\">服务特色</a>\n      <a href=\"#plans\">套餐方案</a>\n      <a href=\"#faq\">常见问题</a>\n    </nav>\n  </div>\n  <div class=\"aside-footer\">\n    © 天天网络<br>陪伴您的每一天\n  </div>\n</aside>\n\n<main>\n  <div class=\"hero\">\n    <h1>天天网络</h1>\n    <p>嘿！很高兴在这里遇见你。我们为你准备了轻松、稳定又贴心的日常网络服务，让每一次连接都像老朋友般默契自然。</p>\n  </div>\n\n  <section id=\"about\">\n    <h2>写在前面</h2>\n    <div>\n      网络世界很大，我们总是希望找一条不拥挤、不折腾的路。天天网络没有复杂的术语，也没有让人眼花缭乱的套路。我们只是认真打理好每一个节点，确保你在查资料、看视频或是和朋友连线时，都能享受到那份难得的顺畅与安心。\n    </div>\n  </section>\n\n  <section id=\"features\">\n    <h2>我们能帮你做什么</h2>\n    <div class=\"features-grid\">\n      <div class=\"card\">\n        <h3>轻松上手</h3>\n        <p>不用看厚厚的说明书，简单的几步设置就能立刻连上。如果遇到不懂的，随时找我们聊聊就好。</p>\n      </div>\n      <div class=\"card\">\n        <h3>稳当靠谱</h3>\n        <p>我们花了很多心思在日常维护上，就是为了让你在关键时刻不掉链子，每次点击都踏实放心。</p>\n      </div>\n      <div class=\"card\">\n        <h3>舒心陪伴</h3>\n        <p>把网络交给我们，你只需要专注享受自己的工作和生活。有任何需要改进的地方，随时告诉我们哦。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2>挑选适合你的伴侣方案</h2>\n    <div class=\"plans-container\">\n      \n      <div class=\"plan-step\">\n        <h3>基础版</h3>\n        <div class=\"price\">¥15/月</div>\n        <p>按年付仅需 ¥150/年</p>\n        <ul>\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n        <a href=\"#\" class=\"btn\">选择基础版</a>\n      </div>\n\n      <div class=\"plan-step featured\">\n        <h3>旗舰版</h3>\n        <div class=\"price\">¥35/月</div>\n        <p>按年付仅需 ¥350/年</p>\n        <ul>\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n        <a href=\"#\" class=\"btn\">选择旗舰版</a>\n      </div>\n\n      <div class=\"plan-step\">\n        <h3>团队版</h3>\n        <div class=\"price\">¥85/月</div>\n        <p>按年付仅需 ¥850/年</p>\n        <ul>\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n        <a href=\"#\" class=\"btn\">选择团队版</a>\n      </div>\n\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题小贴士</h2>\n    \n    <div class=\"faq-group\">\n      <h3>新手上路</h3>\n      <div class=\"faq-item\">\n        <h4>我从来没用过这类服务，能学会吗？</h4>\n        <p>完全不用担心！我们准备了非常直白的图文说明，跟着步骤点几下就能轻松搞定。如果有卡壳的地方，随时来问我们。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h4>买完之后怎么开始使用？</h4>\n        <p>登录你的账号后，页面上会有专属的连接指引和订阅地址，复制粘贴到你常用的设备软件里就行啦。</p>\n      </div>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>关于账号与套餐</h3>\n      <div class=\"faq-item\">\n        <h4>流量用完了怎么办？</h4>\n        <p>别急，流量通常在每个月结算日会自动刷新。如果你这个月刚好有特别繁重的工作需要额外流量，也可以随时选择升级套餐。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h4>支持在手机和电脑上同时用吗？</h4>\n        <p>当然可以！根据你选的套餐，支持多台设备一起在线，手机、平板、电脑都能照顾到。</p>\n      </div>\n    </div>\n  </section>\n\n  <footer>\n    <p>天天网络 —— 感谢一路有你相伴。祝你今天过得愉快！</p>\n  </footer>\n</main>",
+          "hash": "2a9fe594181641c80861ec3ef0fe17ad5a85de1eddb0ed0ae6a5f667b9c9d7cf",
+          "seo": {
+            "title": "天天网络 - 轻松连接每一天的稳定网络服务",
+            "keywords": "天天网络,网络服务,加速体验,稳定连接,日常上网",
+            "description": "天天网络为你提供亲切、稳定、省心的日常网络连接服务，让每一次点击都顺畅自然。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "937",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "8 酒红配象牙白",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qdhsl.cn",
+    "host": "p-a5085e20b4.qdhsl.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "fd02706709f40cbc958831289321c798a5d9cc7abb6816e4199fe044d5cee0c1",
+    "sitemap.xml": "da3cb35a73608d5a1a58970f86f24956db4b368b7ba69122cf31e97bf180035b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c80e20db9d35c0771b99a15fa12d1b074ad2a7411180324f9ce4e1b17fad7cfd",
+    "robots.txt": "e4018d0fd80f22ae1216cc11b94f055991c2b1b388b571be8734cf1787e183bc",
+    "2b9f2d76488463fe3fcc33dde3f7a427.txt": "ea3753bb698fbe2ca8258fc7bbf1b215ac3200b83a3a92f895066890abd1f8a8"
+  },
+  "revision": "e7a3cf3db2ceb024559f96f2861acefc3083b0018545e0db0a7e9fcbf4b1e68b"
+}
